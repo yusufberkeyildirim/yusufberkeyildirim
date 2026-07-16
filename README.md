@@ -57,8 +57,12 @@ Computer Engineering Student • Aspiring Full Stack Developer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yusuf-berke-yıldırım">
+<a href="www.linkedin.com/in/yusuf-berke-yıldırım-9ba1a5381">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+<a href="https://medium.com/@iletisimyusufberkeyildirim">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
