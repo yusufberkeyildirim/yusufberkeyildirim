@@ -69,7 +69,7 @@ Computer Engineering Student • Aspiring Full Stack Developer
 
 ---
 
-> *"Continuous learning, consistency, and curiosity are the foundations of becoming a better software engineer."* 🚀
+
 
 <!--
 **yusufberkeyildirim/yusufberkeyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
