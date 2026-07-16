@@ -12,7 +12,7 @@ Computer Engineering Student • Aspiring Full Stack Developer
 
 🎓 I am a Computer Engineering student with a strong interest in Full Stack Development.
 
-🌱 Currently learning Java while building a solid foundation in software development. My next goal is to deepen my knowledge of Spring Boot and React.
+🌱 🌱 Currently learning Java while building a solid foundation in software development. I am currently expanding my knowledge of Spring Boot and React.
 
 💡 I enjoy solving problems, learning modern technologies, and turning ideas into real-world applications.
 
