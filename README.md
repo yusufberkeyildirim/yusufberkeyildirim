@@ -51,6 +51,7 @@ Computer Engineering Student • Aspiring Full Stack Developer
 - Learn Software Architecture and Design Principles
 - Contribute to open-source projects
 - Gain experience through internships
+- Build software that solves real-world problems
 
 ---
 
