@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yusuf Berke Yıldırım</h1>
 
 <p align="center">
-Computer Engineering Student • Aspiring Full Stack Developer
+Computer Engineering Student •  Full Stack Developer
 </p>
 
 ---
